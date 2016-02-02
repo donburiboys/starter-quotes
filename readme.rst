@@ -23,7 +23,7 @@ Team Members
 
 Clifton Tam
 Derrick Prasad
-Eric Lui was here
+Eric Lui
 
 **************
 Intended Usage
