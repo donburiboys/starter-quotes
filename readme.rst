@@ -21,9 +21,9 @@ Coding Style - Allman
 Team Members
 ************
 
-Clifton Tam
-Derrick Prasad
-Eric Lui
+Clifton Tam       - x
+Derrick Prasad    -
+Eric Lui          - 
 
 **************
 Intended Usage
