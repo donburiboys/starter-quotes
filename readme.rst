@@ -22,7 +22,7 @@ Team Members
 ************
 
 Clifton Tam       - x
-Derrick Prasad    -
+Derrick Prasad    - x
 Eric Lui          - x
 
 **************
