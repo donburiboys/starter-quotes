@@ -6,6 +6,25 @@ This is the starter webapp for Tutorial ci-normal01
 
 It is purposefully broken.
 
+******************
+Coding Conventions
+******************
+
+Coding Style - Allman
+
+  if (...) 
+  {
+    ...
+  } 
+  
+************
+Team Members
+************
+
+Clifton Tam
+Derrick Prasad
+Eric Lui
+
 **************
 Intended Usage
 **************
