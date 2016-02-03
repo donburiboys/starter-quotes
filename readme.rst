@@ -22,8 +22,8 @@ Team Members
 ************
 
 Clifton Tam       - x
-Derrick Prasad    -
-Eric Lui          - 
+Derrick Prasad    - x
+Eric Lui          - x
 
 **************
 Intended Usage
