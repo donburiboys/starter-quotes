@@ -50,7 +50,5 @@ $route['dunno'] = function() {
     die(); // and we don't have to go any further
 };
 
-
-
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
