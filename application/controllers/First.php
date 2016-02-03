@@ -36,4 +36,23 @@ class First extends Application {
         // render page
         $this->render();
     }
+    
+    function gimmie($id)
+    {
+        $this->data['pagebody'] = 'justone';
+        
+        $source = $this->quotes->get('2');
+        
+        // image
+        $this->data['mug']  = $source['mug'];
+        
+        // person
+        $this->data['who']  = $source['who'];
+        
+        // qoute
+        $this->data['what'] = $source['what'];
+        
+        // render page
+        $this->render();
+    }
 }
