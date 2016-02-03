@@ -44,6 +44,9 @@ $route['sleep'] = "first/zzz";
 $route['lock/:any/:any'] = "Welcome/shucks";
 $route['([a-z]{4})/bingo'] = "bingo";
 
+$route['([a-z]{4})/bingo'] = "bingo";
+$route['show/:num'] = "first/gimmie/$1";
+
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
