@@ -7,7 +7,15 @@ class First extends Application {
             parent::__construct();
     }
 
-        
+    function index() 
+    {
+        $this->data['pagebody'] = 'justone';
+        $source = $this->quotes->first();
+        $this->data['mug']  = $source['mug'];
+        $this->data['who']  = $source['who'];
+        $this->data['what'] = $source['what'];
+        $this->render();
+    }
     function zzz()
     {
         // load view
