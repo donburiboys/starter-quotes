@@ -41,7 +41,7 @@ class First extends Application {
     {
         $this->data['pagebody'] = 'justone';
         
-        $source = $this->quotes->get('2');
+        $source = $this->quotes->get('3');
         
         // image
         $this->data['mug']  = $source['mug'];
