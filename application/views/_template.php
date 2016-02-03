@@ -34,7 +34,7 @@ if (!defined('APPPATH'))
                 Copyright &copy; 2015-2016,  <a href="mailto:someone@somewhere.com">Me</a>.
             </div>
         </div>
-        <script src="./assets/js/jquery-1.11.1.min.js"></script>
-        <script src="./assets/js/bootstrap.min.js"></script>
+        <script src="/assets/js/jquery-1.11.1.min.js"></script>
+        <script src="/assets/js/bootstrap.min.js"></script>
     </body>
 </html>

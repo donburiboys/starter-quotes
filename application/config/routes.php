@@ -43,6 +43,7 @@ $route['404_override'] = '';
 $route['sleep'] = "first/zzz";
 $route['lock/:any/:any'] = "Welcome/shucks";
 $route['([a-z]{4})/bingo'] = "bingo";
+$route['show/:num'] = "first/gimmie/$1";
 
 
 /* End of file routes.php */
