@@ -9,3 +9,4 @@
                     - added routing and lock/em/up
 2/2/2016 7:20pm - Added Bingo link
 2/2/2016 7:33pm - Added Show Link
+2/2/2016 8:51pm - Added #8 Wisdom
